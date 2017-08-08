@@ -14,7 +14,7 @@ body {
     text-shadow : 3px 2px grey;
     position: relative;
     top: 90px;
-    left: -100px;
+    right: 100px;
 }
 
 .bold {
