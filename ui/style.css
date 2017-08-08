@@ -11,7 +11,7 @@ body {
 
 .text-big {
     font-size: 300%;
-    text-shadow : 3px 2px #ffffff;
+    text-shadow : 3px 2px solid #ffffff;
     position: relative;
     top: 95px;
     right: 100px;
