@@ -4,6 +4,7 @@ body {
     margin-top: 75px;
     background-image: url("http://orig11.deviantart.net/c4d6/f/2016/135/7/3/low_poly_background_2_by_aleythus-da2jowp.png");
     background-repeat : no-repeat;
+    background-attachment : fixed;
 }
 
 .center {
