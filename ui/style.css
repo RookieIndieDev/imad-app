@@ -25,3 +25,11 @@ body {
     height: 200px;
 }
 
+.git-icon
+{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 90%;
+    right: 85%;
+}
