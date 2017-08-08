@@ -12,6 +12,9 @@ body {
 .text-big {
     font-size: 300%;
     text-shadow : 3px 2px grey;
+    position: relative;
+    top: 50px;
+    left: 50px;
 }
 
 .bold {
