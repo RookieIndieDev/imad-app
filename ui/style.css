@@ -11,10 +11,10 @@ body {
 
 .text-big {
     font-size: 300%;
-    text-shadow : 3px 2px grey;
+    text-shadow : 3px 2px pink;
     position: relative;
-    top: 90px;
-    right: 20px;
+    top: 95px;
+    right: 1000px;
 }
 
 .bold {
